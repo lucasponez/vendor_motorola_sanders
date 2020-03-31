@@ -154,12 +154,6 @@ dex_import {
 }
 
 dex_import {
-	name: "com.qti.snapdragon.sdk.display",
-	owner: "motorola",
-	jars: ["proprietary/framework/com.qti.snapdragon.sdk.display.jar"],
-}
-
-dex_import {
 	name: "embmslibrary",
 	owner: "motorola",
 	jars: ["proprietary/framework/embmslibrary.jar"],
