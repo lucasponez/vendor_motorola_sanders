@@ -161,6 +161,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sanders/proprietary/lib/libmdmcutback.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libmdmcutback.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libmm-qcamera.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmm-qcamera.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libmmcamera_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_interface.so \
+    vendor/motorola/sanders/proprietary/vendor/lib/libmmcamera_sw_tnr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_sw_tnr.so \
+    vendor/motorola/sanders/proprietary/vendor/lib/libllvd_sw_tnr.so:$(TARGET_COPY_OUT_VENDOR)/lib/libllvd_sw_tnr.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libmmjpeg_interface.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmjpeg_interface.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libmot_afd.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmot_afd.so \
     vendor/motorola/sanders/proprietary/vendor/lib/libmot_lux_standardization.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmot_lux_standardization.so \
